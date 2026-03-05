@@ -1,0 +1,2 @@
+Je veux faire un projet sur computer vision qui va scanner mes mains et connaitre le mudras (comme dans naruto mudra pour faire un jutsu) puis executer le jutsu. 
+On va commencé par le mudra de clonage bunshin no jutsu qui fera apparaitre un autre moi.
